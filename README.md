@@ -139,7 +139,7 @@ python QRCode.py --cli
 
 ## License
 
-MIT License - Do whatever you want with it. Use it, fork it, modify it, sell it. No strings attached!
+MIT License - Do whatever you want with it. Use it, fork it, modify it. No strings attached!
 
 ## Author
 
